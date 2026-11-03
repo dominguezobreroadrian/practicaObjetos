@@ -1,0 +1,3 @@
+services:
+  practica-objetos:
+    build: .

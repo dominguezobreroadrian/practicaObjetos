@@ -1,0 +1,5 @@
+node_modules
+.git
+.vscode
+*.odt
+npm-debug.log
